@@ -1,0 +1,8 @@
+fastapi[standard]==0.113.0
+pydantic==2.8.0
+pandas==2.2.2
+xgboost==2.0.3
+numpy==1.26.4
+matplotlib==3.8.4
+scikit-learn==1.7.0
+pipreqs
